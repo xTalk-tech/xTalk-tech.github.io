@@ -29,7 +29,7 @@ addxTalk("F", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 10, 12, 12
 //addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 8, 3, 12, 15, 13, 0, "TR3", 
 addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 9, 14, 12, 15, 13, 0, "TR3", 
     "Stephanie_Soya.png", // Photo
-    "2016-08-03%20Auslan%20%28by%20Stephanie%20Soya%29", // Talk Folder
+    "2016-09-14%20Auslan%20%28by%20Stephanie%20Soya%29", // Talk Folder
     "Explore the world of Australian Sign Language (Auslan) and learn more about intriguing facets of the Deaf community.", // Description 
     "", // Google Folder Link
     ""); // Google Video Link
