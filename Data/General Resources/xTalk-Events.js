@@ -50,7 +50,7 @@ addxTalk("P", "Entanglement", "Quantum Entanglement - Welcome to the Matrix", "S
     "Sanath_Wanigaratne.png",  // Photo
     "2016-07-13%20Quantum%20Entanglement%20%28by%20Sanath%20Wanigaratne%29",  // Talk Folder
     "Quantum Physics is really, really strange. Quantum Physics is really, really true. Come find out why.", // Description 
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCa3N5LWRCV2F5OWs", // Google Folder Link
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCbFpBbFlhNF95N0E", // Google Folder Link
     "https://drive.google.com/open?id=0B3HsIsgdcWNCZzZSX0NYVzhLQUE"); // Google Video Link
 
 addxTalk("P", "Singularity", "Singularity / Basic Income / Technological unemployment", "David Kelertas", 2016, 6, 8, 12, 15, 13, 0, "TR3", 
