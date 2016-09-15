@@ -24,14 +24,19 @@ addxTalk("F", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomo
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 
 //addxTalk("F", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 9, 14, 12, 15, 13, 0, "TR3", "Mark_Gasiorowski.png", "", "", "", "");
-addxTalk("F", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Mark_Gasiorowski.png", "", "", "", "");
+addxTalk("N", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 10, 12, 12, 15, 13, 0, "TR3", 
+    "Mark_Gasiorowski.png", //Photo
+    "2016-10-12%20Cosmology%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
+    "", // Description
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCSXNZSzZHM3k5MUU", // Google Folder Link
+    ""); // Google Video Link
 
 //addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 8, 3, 12, 15, 13, 0, "TR3", 
-addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 9, 14, 12, 15, 13, 0, "TR3", 
+addxTalk("P", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 9, 14, 12, 15, 13, 0, "TR3", 
     "Stephanie_Soya.png", // Photo
     "2016-09-14%20Auslan%20%28by%20Stephanie%20Soya%29", // Talk Folder
     "Explore the world of Australian Sign Language (Auslan) and learn more about intriguing facets of the Deaf community.", // Description 
-    "", // Google Folder Link
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCemF5OXVfeHVTcjg", // Google Folder Link
     ""); // Google Video Link
 
 //addxTalk("N", "Xamarin", "Xamarin -  iOS & Android Apps in C#", "Julian Marshall", 2016, 7, 13, 12, 15, 13, 0, "TR3",
