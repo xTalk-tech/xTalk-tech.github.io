@@ -37,7 +37,7 @@ addxTalk("P", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephan
     "2016-09-14%20Auslan%20%28by%20Stephanie%20Soya%29", // Talk Folder
     "Explore the world of Australian Sign Language (Auslan) and learn more about intriguing facets of the Deaf community.", // Description 
     "https://drive.google.com/open?id=0B3HsIsgdcWNCemF5OXVfeHVTcjg", // Google Folder Link
-    ""); // Google Video Link
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCdGFLaU9qVnJnT2s"); // Google Video Link
 
 //addxTalk("N", "Xamarin", "Xamarin -  iOS & Android Apps in C#", "Julian Marshall", 2016, 7, 13, 12, 15, 13, 0, "TR3",
 //    "Julian_Marshall.png",  // Photo
