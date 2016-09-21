@@ -24,10 +24,10 @@ addxTalk("F", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomo
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 
 //addxTalk("F", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 9, 14, 12, 15, 13, 0, "TR3", "Mark_Gasiorowski.png", "", "", "", "");
-addxTalk("N", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 10, 12, 12, 15, 13, 0, "TR3", 
+addxTalk("N", "Stellar", "Stellar Astronomy", "Mark Gasiorowski", 2016, 10, 12, 12, 15, 13, 0, "TR3", 
     "Mark_Gasiorowski.png", //Photo
-    "2016-10-12%20Cosmology%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
-    "", // Description
+    "2016-10-12%20Stellar%20Astronomy%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
+    "Learn about how stars are made, how they work, and why you're made of them.", // Description
     "https://drive.google.com/open?id=0B3HsIsgdcWNCSXNZSzZHM3k5MUU", // Google Folder Link
     ""); // Google Video Link
 
