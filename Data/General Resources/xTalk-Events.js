@@ -18,7 +18,7 @@ addEvent(2016, 12, 27, "P", "Holiday for missing weekend");
 addxTalk("F", "Compilers", "Compilers", "Jamie Venning & Joshua O'Brien", 2016, 12, 7, 12, 15, 13, 0, "TR3", "Joshua_OBrien.png", "", "", "", "");
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
-addxTalk("F", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Scott_Gibbs.png", "", "", "", "");
+addxTalk("F", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", "Scott_Gibbs.png", "", "", "", "");
 
 //addxTalk("F", "Entanglement", "Quantum Entanglement - Welcome to the Matrix", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
