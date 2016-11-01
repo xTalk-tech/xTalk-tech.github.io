@@ -18,13 +18,18 @@ addEvent(2016, 12, 27, "P", "Holiday for missing weekend");
 addxTalk("F", "Compilers", "Compilers", "Jamie Venning & Joshua O'Brien", 2016, 12, 7, 12, 15, 13, 0, "TR3", "Joshua_OBrien.png", "", "", "", "");
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
-addxTalk("F", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", "Scott_Gibbs.png", "", "", "", "");
+addxTalk("N", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", 
+    "Scott_Gibbs.png", //Photo
+    "2016-11-14%20Cool%20Algorithms%20%28by%20Scott%20Gibbs%29", // Talk Folder
+    "Computers simulating intelligent behaviour....come and discover the beauty behind computer intelligence", // Description
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCdkh4RnVocVVHODQ", // Google Folder Link
+    ""); // Google Video Link
 
 //addxTalk("F", "Entanglement", "Quantum Entanglement - Welcome to the Matrix", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 
 //addxTalk("F", "Cosmology", "Cosmology 101", "Mark Gasiorowski", 2016, 9, 14, 12, 15, 13, 0, "TR3", "Mark_Gasiorowski.png", "", "", "", "");
-addxTalk("N", "Stellar", "Stellar Astronomy", "Mark Gasiorowski", 2016, 10, 26, 12, 15, 13, 0, "TR4", 
+addxTalk("P", "Stellar", "Stellar Astronomy", "Mark Gasiorowski", 2016, 10, 26, 12, 15, 13, 0, "TR4", 
     "Mark_Gasiorowski.png", //Photo
     "2016-10-26%20Stellar%20Astronomy%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
     "Learn about how stars are made, how they work, and why you're made of them.", // Description
