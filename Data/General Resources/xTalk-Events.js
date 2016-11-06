@@ -34,7 +34,7 @@ addxTalk("P", "Stellar", "Stellar Astronomy", "Mark Gasiorowski", 2016, 10, 26, 
     "2016-10-26%20Stellar%20Astronomy%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
     "Learn about how stars are made, how they work, and why you're made of them.", // Description
     "https://drive.google.com/open?id=0B3HsIsgdcWNCSXNZSzZHM3k5MUU", // Google Folder Link
-    ""); // Google Video Link
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCWTMzcHZ5azY2aW8"); // Google Video Link
 
 //addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 8, 3, 12, 15, 13, 0, "TR3", 
 addxTalk("P", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 9, 14, 12, 15, 13, 0, "TR3", 
