@@ -15,15 +15,15 @@ addEvent(2016, 12, 27, "P", "Holiday for missing weekend");
 
 
 // xTalks
-addxTalk("F", "Compilers", "Compilers", "Jamie Venning & Joshua O'Brien", 2016, 12, 7, 12, 15, 13, 0, "TR3", "Joshua_OBrien.png", "", "", "", "");
+addxTalk("N", "Compilers", "Compilers", "Jamie Venning & Joshua O'Brien", 2016, 12, 7, 12, 15, 13, 0, "TR3", "Joshua_OBrien.png", "", "", "", "");
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
-addxTalk("N", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", 
+addxTalk("P", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", 
     "Scott_Gibbs.png", //Photo
     "2016-11-14%20Cool%20Algorithms%20%28by%20Scott%20Gibbs%29", // Talk Folder
     "Computers simulating intelligent behaviour....come and discover the beauty behind computer intelligence", // Description
     "https://drive.google.com/open?id=0B3HsIsgdcWNCdkh4RnVocVVHODQ", // Google Folder Link
-    ""); // Google Video Link
+    "https://drive.google.com/open?id=0B3HsIsgdcWNCSmNKdnVPeWozM3M"); // Google Video Link
 
 //addxTalk("F", "Entanglement", "Quantum Entanglement - Welcome to the Matrix", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
