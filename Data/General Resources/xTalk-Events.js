@@ -15,7 +15,12 @@ addEvent(2016, 12, 27, "P", "Holiday for missing weekend");
 
 
 // xTalks
-addxTalk("N", "Compilers", "Compilers", "Jamie Venning & Joshua O'Brien", 2016, 12, 7, 12, 15, 13, 0, "TR3", "Joshua_OBrien.png", "", "", "", "");
+addxTalk("N", "Compilers", "Under the covers with C#: From code to assembly", "James Venning", 2016, 12, 7, 12, 15, 13, 0, "TR3", 
+    "James_Venning.png", //Photo
+    "2016-12-07%20Compilers%20%28by%20Jamie%20Venning%29", // Talk Folder
+    "C# Deep-dive: What does your code actually become?", // Description
+    "", // Google Folder Link
+    ""); // Google Video Link
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 addxTalk("P", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", 
