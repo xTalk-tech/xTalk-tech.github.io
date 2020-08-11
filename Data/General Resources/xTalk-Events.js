@@ -23,7 +23,7 @@ addxTalk("P", "Compilers", "Under the covers with C#: From code to assembly", "
     "James_Venning.png", //Photo
     "2016-12-07%20Compilers%20%28by%20Jamie%20Venning%29", // Talk Folder
     "C# Deep-dive: What does your code actually become?", // Description
-    "https://drive.google.com/open?id=18vEtn2YhZEDCG5YmxFc6v8JtQVmMR_8i2222", // Google Folder Link
+    "https://drive.google.com/open?id=18vEtn2YhZEDCG5YmxFc6v8JtQVmMR_8i", // Google Folder Link
     "https://drive.google.com/file/d/1WlkGWkd27yUXhIdZEKP8lvk4tGaQCrvT/view"); // Google Video Link
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
@@ -31,8 +31,8 @@ addxTalk("P", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomo
     "Scott_Gibbs.png", //Photo
     "2016-11-14%20Cool%20Algorithms%20%28by%20Scott%20Gibbs%29", // Talk Folder
     "Computers simulating intelligent behaviour....come and discover the beauty behind computer intelligence", // Description
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCdkh4RnVocVVHODQ", // Google Folder Link
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCSmNKdnVPeWozM3M"); // Google Video Link
+    "https://drive.google.com/open?id=1lDmvDz-UsP3BCgisVcWoHgtVYzdZX53P", // Google Folder Link
+    "https://drive.google.com/file/d/1XieKRqI3swkwYDp4r8FnGpuE_-EAhRmf/view"); // Google Video Link
 
 //addxTalk("F", "Entanglement", "Quantum Entanglement - Welcome to the Matrix", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 10, 12, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
@@ -42,16 +42,16 @@ addxTalk("P", "Stellar", "Stellar Astronomy", "Mark Gasiorowski", 2016, 10, 26, 
     "Mark_Gasiorowski.png", //Photo
     "2016-10-26%20Stellar%20Astronomy%20%28by%20Mark%20Gasiorowski%29", // Talk Folder
     "Learn about how stars are made, how they work, and why you're made of them.", // Description
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCSXNZSzZHM3k5MUU", // Google Folder Link
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCWTMzcHZ5azY2aW8"); // Google Video Link
+    "https://drive.google.com/open?id=10ywuk3RAjOUvi7XjZ_tXO80QW8CpenQ1", // Google Folder Link
+    "https://drive.google.com/file/d/18w649rHpEHbt_Hdg96DILVRDDrtQNx6c/view"); // Google Video Link
 
 //addxTalk("N", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 8, 3, 12, 15, 13, 0, "TR3", 
 addxTalk("P", "Sign Language", "Introduction to Auslan & Deaf Culture", "Stephanie Soya", 2016, 9, 14, 12, 15, 13, 0, "TR3", 
     "Stephanie_Soya.png", // Photo
     "2016-09-14%20Auslan%20%28by%20Stephanie%20Soya%29", // Talk Folder
     "Explore the world of Australian Sign Language (Auslan) and learn more about intriguing facets of the Deaf community.", // Description 
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCemF5OXVfeHVTcjg", // Google Folder Link
-    "https://drive.google.com/open?id=0B3HsIsgdcWNCdGFLaU9qVnJnT2s"); // Google Video Link
+    "https://drive.google.com/open?id=1ikwO54NmFl983Wpt0iFkNZaZrqmIPlgF", // Google Folder Link
+    "https://drive.google.com/file/d/1BRLvTmAMjv4VxBpH1GvcA2QVrO6QP_j8/view"); // Google Video Link
 
 //addxTalk("N", "Xamarin", "Xamarin -  iOS & Android Apps in C#", "Julian Marshall", 2016, 7, 13, 12, 15, 13, 0, "TR3",
 //    "Julian_Marshall.png",  // Photo
