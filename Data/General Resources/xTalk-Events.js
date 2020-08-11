@@ -127,8 +127,8 @@ addxTalk("P", "Magic", "Magic - Unleash your mind's potential", "Sanath Wanigara
     "Sanath_Wanigaratne.png", // Photo
     "2015-11-20%20Magic%20-%20Unleash%20your%20mind%27s%20potential%20%28by%20Sanath%20Wanigaratne%29", // Talk Folder
     "See the relationship between Magic and Software.", // Description
-    "https://drive.google.com/open?id=1GsdHvnL7JQFrWvol4hc8v7EP3D49ZgYQ",  // Google Folder Link
-    "https://drive.google.com/file/d/1t9Us4VgT89UQJ-P_t0cgpJg2hHn3lwIg/view"); // Google Video Link
+    "https://drive.google.com/drive/folders/1GsdHvnL7JQFrWvol4hc8v7EP3D49ZgYQ?usp=sharing",  // Google Folder Link
+    "https://drive.google.com/file/d/1ileMP5EVdDpJnkhffZmtCuVBw3rmSHC7/view?usp=sharing"); // Google Video Link
 
 
 addxTalk("P", "First", "Quantum Physics", "Sanath Wanigaratne", 2015, 10, 20, 12, 15, 13, 0, "MR4.2", 
