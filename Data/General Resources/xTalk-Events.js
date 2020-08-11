@@ -23,8 +23,8 @@ addxTalk("P", "Compilers", "Under the covers with C#: From code to assembly", "
     "James_Venning.png", //Photo
     "2016-12-07%20Compilers%20%28by%20Jamie%20Venning%29", // Talk Folder
     "C# Deep-dive: What does your code actually become?", // Description
-    "https://drive.google.com/open?id=18vEtn2YhZEDCG5YmxFc6v8JtQVmMR_8i", // Google Folder Link
-    "https://drive.google.com/file/d/1WlkGWkd27yUXhIdZEKP8lvk4tGaQCrvT/view"); // Google Video Link
+    "https://drive.google.com/file/d/1WlkGWkd27yUXhIdZEKP8lvk4tGaQCrvT/view?usp=sharing", // Google Folder Link
+    "https://drive.google.com/drive/folders/18vEtn2YhZEDCG5YmxFc6v8JtQVmMR_8i?usp=sharing"); // Google Video Link
 
 //addxTalk("F", "Two Slit Experiment", "The Two Slit Experiment - Quantum Physics and Consciousness", "Sanath Wanigaratne", 2016, 11, 9, 12, 15, 13, 0, "TR3", "Sanath_Wanigaratne.png", "", "", "", "");
 addxTalk("P", "Cool Algorithms", "Cool Algorithms - Evolutionary AI and Autonomous Motion Planning", "Scott Gibbs", 2016, 11, 14, 12, 15, 13, 0, "TR3", 
